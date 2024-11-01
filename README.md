@@ -2,7 +2,7 @@
 
 This repository contains solutions for BUET IUPC 2024.
 
-You can access problems and submit solutions int the [constest page](https://toph.co/c/inter-university-buet-cse-fest-2024)
+You can access problems and submit solutions int the [contest page](https://toph.co/c/inter-university-buet-cse-fest-2024)
 
 ## Contribution
 The files on this repo are contributed by the judging panel of the BUET IUPC 2024.
